@@ -5,5 +5,5 @@ Always ready to explore new technologies in the Generative AI, cloud ecosystems,
 
  **Stack:** 
  
- `Python` `|` `TypeScript` `|` `SQL` `|`  `Azure` `|` `AWS` 
+ `Python` `|` `TypeScript` `|` `SQL` `|`  `Azure` `|` `AWS` `|` `AWS` `|` `PowerBI` `|` `Pandas` `|` `Docker` 
 
